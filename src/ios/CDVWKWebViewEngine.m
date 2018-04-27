@@ -28,7 +28,7 @@
 #import "GCDWebServer.h"
 #import "GCDWebServerPrivate.h"
 
-#define CDV_LOCAL_SERVER @"http://localhost:8080"
+#define CDV_LOCAL_SERVER @"http://127.0.0.1:8080"
 #define CDV_BRIDGE_NAME @"cordova"
 #define CDV_IONIC_STOP_SCROLL @"stopScroll"
 
